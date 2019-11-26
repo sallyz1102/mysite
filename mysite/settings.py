@@ -115,14 +115,6 @@ USE_L10N = True
 
 USE_TZ = True
 
-
-# e-mail setting
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.yahoo.co.jp'
-EMAIL_PORT = 25
-EMAIL_HOST_USER = 'XXXXXX@yahoo.co.jp'
-EMAIL_HOST_PASSWORD = 'XXXXXXXXXXXXXXX'
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
